@@ -1,4 +1,4 @@
-
+import { API_KEY } from "./config.js";
 let apiKey = API_KEY;
 let searchinput = document.querySelector(`.searchinput`);
 
